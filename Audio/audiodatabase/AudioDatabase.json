@@ -424,8 +424,8 @@
       "assetBundleName": "bgm_battle_wcs"
     },
     {
-      "assetName": "BGM_battle_wcs_dummy",
-      "assetBundleName": "audio_unuse"
+      "assetName": "BGM_battle_arena2",
+      "assetBundleName": "bgm_battle_arena2"
     }
   ],
   "meSheet": [
@@ -458,8 +458,8 @@
       "assetBundleName": "bgm_battle_wcs"
     },
     {
-      "assetName": "ME_battle_intro_wcs_dummy",
-      "assetBundleName": "audio_unuse"
+      "assetName": "ME_battle_intro_arena2",
+      "assetBundleName": "bgm_battle_arena2"
     }
   ],
   "seSystemSheet": [
@@ -7648,6 +7648,86 @@
     {
       "assetName": "ew0270_tedasuke",
       "assetBundleName": "ew0270_tedasuke",
+      "priorty": 40,
+      "loop": 0,
+      "reverb": 1,
+      "spatial3d": 1,
+      "distanceMin": 1,
+      "distanceMax": 50
+    },
+    {
+      "assetName": "ew0913_dragonyell_friend",
+      "assetBundleName": "ew0913_dragonyell",
+      "priorty": 40,
+      "loop": 0,
+      "reverb": 1,
+      "spatial3d": 1,
+      "distanceMin": 1,
+      "distanceMax": 50
+    },
+    {
+      "assetName": "ew0789_soulcrash",
+      "assetBundleName": "ew0789_soulcrash",
+      "priorty": 40,
+      "loop": 0,
+      "reverb": 1,
+      "spatial3d": 1,
+      "distanceMin": 1,
+      "distanceMax": 50
+    },
+    {
+      "assetName": "ew0839_dokubarisenbon",
+      "assetBundleName": "ew0839_dokubarisenbon",
+      "priorty": 40,
+      "loop": 0,
+      "reverb": 1,
+      "spatial3d": 1,
+      "distanceMin": 1,
+      "distanceMax": 50
+    },
+    {
+      "assetName": "ew0889_fundonokobushi",
+      "assetBundleName": "ew0889_fundonokobushi",
+      "priorty": 40,
+      "loop": 0,
+      "reverb": 1,
+      "spatial3d": 1,
+      "distanceMin": 1,
+      "distanceMax": 50
+    },
+    {
+      "assetName": "epm0668_fire",
+      "assetBundleName": "epm0668_fire",
+      "priorty": 40,
+      "loop": 0,
+      "reverb": 1,
+      "spatial3d": 1,
+      "distanceMin": 1,
+      "distanceMax": 50
+    },
+    {
+      "assetName": "shinka_poke_0870",
+      "assetBundleName": "shinka_poke_0870",
+      "priorty": 40,
+      "loop": 0,
+      "reverb": 1,
+      "spatial3d": 1,
+      "distanceMin": 1,
+      "distanceMax": 50
+    },
+    {
+      "assetName": "ew_dummy_01",
+      "assetBundleName": "ew_dummy_01",
+      "priorty": 40,
+      "loop": 0,
+      "reverb": 1,
+      "spatial3d": 1,
+      "distanceMin": 1,
+      "distanceMax": 50
+    },
+    {
+      "assetName": "ew_dummy_02",
+      "assetBundleName": "ew_dummy_02",
       "priorty": 40,
       "loop": 0,
       "reverb": 1,
