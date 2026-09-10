@@ -7734,6 +7734,156 @@
       "spatial3d": 1,
       "distanceMin": 1,
       "distanceMax": 50
+    },
+    {
+      "assetName": "Play_Ba_sys_10sec",
+      "assetBundleName": "audio_ingame",
+      "priorty": 40,
+      "loop": 0,
+      "reverb": 1,
+      "spatial3d": 1,
+      "distanceMin": 1,
+      "distanceMax": 50
+    },
+    {
+      "assetName": "ew0163_kirisaku",
+      "assetBundleName": "ew0163_kirisaku",
+      "priorty": 40,
+      "loop": 0,
+      "reverb": 1,
+      "spatial3d": 1,
+      "distanceMin": 1,
+      "distanceMax": 50
+    },
+    {
+      "assetName": "ew0190_okutanhou",
+      "assetBundleName": "ew0190_okutanhou",
+      "priorty": 40,
+      "loop": 0,
+      "reverb": 1,
+      "spatial3d": 1,
+      "distanceMin": 1,
+      "distanceMax": 50
+    },
+    {
+      "assetName": "ew0508_gearchange",
+      "assetBundleName": "ew0508_gearchange",
+      "priorty": 40,
+      "loop": 0,
+      "reverb": 1,
+      "spatial3d": 1,
+      "distanceMin": 1,
+      "distanceMax": 50
+    },
+    {
+      "assetName": "ew0716_biribirichikuchiku",
+      "assetBundleName": "ew0716_biribirichikuchiku",
+      "priorty": 40,
+      "loop": 0,
+      "reverb": 1,
+      "spatial3d": 1,
+      "distanceMin": 1,
+      "distanceMax": 50
+    },
+    {
+      "assetName": "ew0745_neraiuchi",
+      "assetBundleName": "ew0745_neraiuchi",
+      "priorty": 40,
+      "loop": 0,
+      "reverb": 1,
+      "spatial3d": 1,
+      "distanceMin": 1,
+      "distanceMax": 50
+    },
+    {
+      "assetName": "ew0746_kuraitsuku",
+      "assetBundleName": "ew0746_kuraitsuku",
+      "priorty": 40,
+      "loop": 0,
+      "reverb": 1,
+      "spatial3d": 1,
+      "distanceMin": 1,
+      "distanceMax": 50
+    },
+    {
+      "assetName": "ew0753_takogatame",
+      "assetBundleName": "ew0753_takogatame",
+      "priorty": 40,
+      "loop": 0,
+      "reverb": 1,
+      "spatial3d": 1,
+      "distanceMin": 1,
+      "distanceMax": 50
+    },
+    {
+      "assetName": "ew0756_courtchange",
+      "assetBundleName": "ew0756_courtchange",
+      "priorty": 40,
+      "loop": 0,
+      "reverb": 1,
+      "spatial3d": 1,
+      "distanceMin": 1,
+      "distanceMax": 50
+    },
+    {
+      "assetName": "ew0778_drumattack",
+      "assetBundleName": "ew0778_drumattack",
+      "priorty": 40,
+      "loop": 0,
+      "reverb": 1,
+      "spatial3d": 1,
+      "distanceMin": 1,
+      "distanceMax": 50
+    },
+    {
+      "assetName": "ew0780_kaenball",
+      "assetBundleName": "ew0780_kaenball",
+      "priorty": 40,
+      "loop": 0,
+      "reverb": 1,
+      "spatial3d": 1,
+      "distanceMin": 1,
+      "distanceMax": 50
+    },
+    {
+      "assetName": "ew0786_overdrive",
+      "assetBundleName": "ew0786_overdrive",
+      "priorty": 40,
+      "loop": 0,
+      "reverb": 1,
+      "spatial3d": 1,
+      "distanceMin": 1,
+      "distanceMax": 50
+    },
+    {
+      "assetName": "ew0794_starassault",
+      "assetBundleName": "ew0794_starassault",
+      "priorty": 40,
+      "loop": 0,
+      "reverb": 1,
+      "spatial3d": 1,
+      "distanceMin": 1,
+      "distanceMax": 50
+    },
+    {
+      "assetName": "ew0794_starassault_poke_only",
+      "assetBundleName": "ew0794_starassault_poke_only",
+      "priorty": 40,
+      "loop": 0,
+      "reverb": 1,
+      "spatial3d": 1,
+      "distanceMin": 1,
+      "distanceMax": 50
+    },
+    {
+      "assetName": "wing_pm931",
+      "assetBundleName": "wing_pm931",
+      "priorty": 40,
+      "loop": 0,
+      "reverb": 1,
+      "spatial3d": 1,
+      "distanceMin": 1,
+      "distanceMax": 50
     }
   ],
   "voiceSheet": [
@@ -15795,6 +15945,24 @@
     {
       "assetName": "PV_D_828",
       "assetBundleName": "pv_d_828",
+      "priorty": 30,
+      "reverb": 1,
+      "spatial3d": 1,
+      "distanceMin": 1,
+      "distanceMax": 50
+    },
+    {
+      "assetName": "PV_943",
+      "assetBundleName": "pv_943",
+      "priorty": 30,
+      "reverb": 1,
+      "spatial3d": 1,
+      "distanceMin": 1,
+      "distanceMax": 50
+    },
+    {
+      "assetName": "PV_D_943",
+      "assetBundleName": "pv_d_943",
       "priorty": 30,
       "reverb": 1,
       "spatial3d": 1,
